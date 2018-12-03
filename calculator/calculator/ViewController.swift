@@ -17,6 +17,7 @@ public class ViewController: UIViewController {
     var history: [String] = []
     override public func viewDidLoad() {
         super.viewDidLoad()
+        // test  
         // Do any additional setup after loading the view, typically from a nib.
     }
 
